@@ -8,3 +8,11 @@
 /dataSources.local.xml
 # Zeppelin ignored files
 /ZeppelinRemoteNotebooks/
+Maven
+target/
+IntelliJ IDEA
+.idea/
+Eclipse
+.classpath/
+.project/
+.settings/
